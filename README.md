@@ -35,3 +35,16 @@ library(tree) # library for decison tree
 library(gbm)
 library(randomForest)
 ```
+
+## Getting access to my AWS S3 bucket and storing the bucket object into the variable:-
+```
+Sys.setenv("AWS_ACCESS_KEY_ID" = "Your Access Key ID",
+           "AWS_SECRET_ACCESS_KEY" = "Your Secret Access Key",
+           "AWS_DEFAULT_REGION" = "Your Bucket Default Region")
+bucketlist() #For seeing what files are there in bucket
+get_bucket('yelpdatasetchallengebigdataproject') #getting the bucket containg the Yelp Dataset
+
+#Storing the S3 bucket in object
+obj <- get_object("s3://yelpdatasetchallengebigdataproject/yelp_review.csv")
+yelpData <- read.csv(text = rawToChar(obj)) #storing csv data from Amazon s3 to a yelp data variable
+```
