@@ -1,7 +1,7 @@
 # Yelp-Dataset-Challenge
 
 ## Goal:-
-To analyzed how restaurant ratings are affected by review sentimental scores, review length, and number of useful, funny, and cool votes recieved by review.
+To analyze how restaurant ratings are affected by review sentimental scores, review length, and number of useful, funny, and cool votes recieved by review.
 
 ## Language used:-
 We used Spark R in databricks.
@@ -48,3 +48,5 @@ get_bucket('yelpdatasetchallengebigdataproject') #getting the bucket containg th
 obj <- get_object("s3://yelpdatasetchallengebigdataproject/yelp_review.csv")
 yelpData <- read.csv(text = rawToChar(obj)) #storing csv data from Amazon s3 to a yelp data variable
 ```
+
+## Data Exploration:-
