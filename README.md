@@ -50,5 +50,8 @@ yelpData <- read.csv(text = rawToChar(obj)) #storing csv data from Amazon s3 to 
 ```
 
 ## Data Exploration:-
-![1](https://github.com/AkshayRameshAppDEV/Yelp-Dataset-Challenge/Big Data Pics/1.PNG)
+```
+display(yelpData)
+```
+https://github.com/AkshayRameshAppDEV/Yelp-Dataset-Challenge/blob/master/Big%20Data%20Pics/1.PNG
 
