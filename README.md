@@ -19,8 +19,19 @@ install.packages("corrplot") #installing corrplot package
 
 install.packages("tree") # Decision Tree Package
 
-install.packages("gbm") # Boosting PAckage
+install.packages("gbm") # Boosting Package
 
 install.packages("randomForest") # Random Forest Package
 
+```
+
+## Loading the installed libraries/packages:-
+
+```
+library(SparkR)
+library("aws.s3")
+library(corrplot)
+library(tree) # library for decison tree
+library(gbm)
+library(randomForest)
 ```
