@@ -78,15 +78,10 @@ display(yelpData)
 ## Decision Tree Analysis:-
 ![alt text](https://github.com/AkshayRameshAppDEV/Yelp-Dataset-Challenge/blob/master/Big%20Data%20Pics/20.PNG)
 
+## Boosting Analysis:-
+![alt text](https://github.com/AkshayRameshAppDEV/Yelp-Dataset-Challenge/blob/master/Big%20Data%20Pics/21.PNG)
+![alt text](https://github.com/AkshayRameshAppDEV/Yelp-Dataset-Challenge/blob/master/Big%20Data%20Pics/22.PNG)
+![alt text](https://github.com/AkshayRameshAppDEV/Yelp-Dataset-Challenge/blob/master/Big%20Data%20Pics/23.PNG)
 
-
-
-
-
-
-
-
-
-
-
-
+## Random Forest Analysis:-
+![alt text](https://github.com/AkshayRameshAppDEV/Yelp-Dataset-Challenge/blob/master/Big%20Data%20Pics/24.PNG)
