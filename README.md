@@ -75,6 +75,10 @@ display(yelpData)
 ![alt text](https://github.com/AkshayRameshAppDEV/Yelp-Dataset-Challenge/blob/master/Big%20Data%20Pics/18.PNG)
 ![alt text](https://github.com/AkshayRameshAppDEV/Yelp-Dataset-Challenge/blob/master/Big%20Data%20Pics/19.PNG)
 
+## Decision Tree Analysis:-
+![alt text](https://github.com/AkshayRameshAppDEV/Yelp-Dataset-Challenge/blob/master/Big%20Data%20Pics/20.PNG)
+
+
 
 
 
