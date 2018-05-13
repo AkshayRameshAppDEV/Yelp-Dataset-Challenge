@@ -54,5 +54,24 @@ yelpData <- read.csv(text = rawToChar(obj)) #storing csv data from Amazon s3 to 
 display(yelpData)
 ```
 ![alt text](https://github.com/AkshayRameshAppDEV/Yelp-Dataset-Challenge/blob/master/Big%20Data%20Pics/1.PNG)
+![alt text](https://github.com/AkshayRameshAppDEV/Yelp-Dataset-Challenge/blob/master/Big%20Data%20Pics/2.PNG)
+![alt text](https://github.com/AkshayRameshAppDEV/Yelp-Dataset-Challenge/blob/master/Big%20Data%20Pics/3.PNG)
+![alt text](https://github.com/AkshayRameshAppDEV/Yelp-Dataset-Challenge/blob/master/Big%20Data%20Pics/4.PNG)
+![alt text](https://github.com/AkshayRameshAppDEV/Yelp-Dataset-Challenge/blob/master/Big%20Data%20Pics/5.PNG)
+![alt text](https://github.com/AkshayRameshAppDEV/Yelp-Dataset-Challenge/blob/master/Big%20Data%20Pics/6.PNG)
+![alt text](https://github.com/AkshayRameshAppDEV/Yelp-Dataset-Challenge/blob/master/Big%20Data%20Pics/7.PNG)
+![alt text](https://github.com/AkshayRameshAppDEV/Yelp-Dataset-Challenge/blob/master/Big%20Data%20Pics/8.PNG)
+![alt text](https://github.com/AkshayRameshAppDEV/Yelp-Dataset-Challenge/blob/master/Big%20Data%20Pics/9.PNG)
+![alt text](https://github.com/AkshayRameshAppDEV/Yelp-Dataset-Challenge/blob/master/Big%20Data%20Pics/10.PNG)
+![alt text](https://github.com/AkshayRameshAppDEV/Yelp-Dataset-Challenge/blob/master/Big%20Data%20Pics/11.PNG)
+![alt text](https://github.com/AkshayRameshAppDEV/Yelp-Dataset-Challenge/blob/master/Big%20Data%20Pics/12.PNG)
+
+
+
+
+
+
+
+
 
 
