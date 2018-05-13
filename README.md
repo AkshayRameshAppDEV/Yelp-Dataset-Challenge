@@ -85,3 +85,13 @@ display(yelpData)
 
 ## Random Forest Analysis:-
 ![alt text](https://github.com/AkshayRameshAppDEV/Yelp-Dataset-Challenge/blob/master/Big%20Data%20Pics/24.PNG)
+
+## Conclusion:-
+When comparing all the above correlation accuracies of 4 different algorithms, the ranking based on correlation accuracy (from highest accuracy to lowest accuracy) are as follows:-
+
+Boosting > Random Forest > Decision Tree > Linear Regression
+
+Boosting algorithm performed much better than the other three models with an accuracy of
+70.15%. Boosting performed better because it is designed to create lot of trees consecutively,
+which resulted in improved performance. Moreover, each tree has a better fit on a modified
+version of the previous tree when Boosting is used.
