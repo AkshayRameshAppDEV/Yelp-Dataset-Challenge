@@ -66,6 +66,18 @@ display(yelpData)
 ![alt text](https://github.com/AkshayRameshAppDEV/Yelp-Dataset-Challenge/blob/master/Big%20Data%20Pics/11.PNG)
 ![alt text](https://github.com/AkshayRameshAppDEV/Yelp-Dataset-Challenge/blob/master/Big%20Data%20Pics/12.PNG)
 
+## Linear Regression Analysis:-
+![alt text](https://github.com/AkshayRameshAppDEV/Yelp-Dataset-Challenge/blob/master/Big%20Data%20Pics/12.PNG)
+![alt text](https://github.com/AkshayRameshAppDEV/Yelp-Dataset-Challenge/blob/master/Big%20Data%20Pics/13.PNG)
+![alt text](https://github.com/AkshayRameshAppDEV/Yelp-Dataset-Challenge/blob/master/Big%20Data%20Pics/14.PNG)
+![alt text](https://github.com/AkshayRameshAppDEV/Yelp-Dataset-Challenge/blob/master/Big%20Data%20Pics/15.PNG)
+![alt text](https://github.com/AkshayRameshAppDEV/Yelp-Dataset-Challenge/blob/master/Big%20Data%20Pics/16.PNG)
+![alt text](https://github.com/AkshayRameshAppDEV/Yelp-Dataset-Challenge/blob/master/Big%20Data%20Pics/17.PNG)
+![alt text](https://github.com/AkshayRameshAppDEV/Yelp-Dataset-Challenge/blob/master/Big%20Data%20Pics/18.PNG)
+![alt text](https://github.com/AkshayRameshAppDEV/Yelp-Dataset-Challenge/blob/master/Big%20Data%20Pics/19.PNG)
+
+
+
 
 
 
